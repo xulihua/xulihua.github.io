@@ -3303,11 +3303,12 @@ a {
 }
 
 body {
-	overflow: hidden;
 	height: 100%;
 	font-size: 100%;
-	background: url(../img/icloud.png) repeat fixed!important;
-	background-attachment: fixed;
+	background: url(https://tanst.net/script/bing.php) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
 	overflow: hidden;
 	font-family: "PingFang SC", "Helvetica Neue", "Microsoft YaHei UI", "Microsoft YaHei", "Noto Sans CJK SC", Sathu, EucrosiaUPC, sans-serif;
 }
